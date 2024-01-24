@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+p {
+  color: white;
+  font-size: 1.5rem;
+  background: rgb(59, 58, 58);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#content {
+  color: white;
+  font-size: 2.5rem;
+  background: rgb(59, 58, 58);
+  padding: 20px;
+  border-radius: 8px;
+}
